@@ -3,23 +3,12 @@
 A modern and responsive Design Agency Homepage built using React.js. This project was created as part of the React.js Developer Internship task-based evaluation.
 
 ## Live Demo
-
-Add your Vercel deployment link here.
-
-Example:
-
-https://nova-design-agency.vercel.app
+https://nova-studio-ten.vercel.app/
 
 ---
 
 ## GitHub Repository
-
-Add your GitHub repository link here.
-
-Example:
-
-https://github.com/yourusername/nova-design-agency
-
+https://github.com/Jatly/nova-studio
 ---
 
 ## Project Overview
