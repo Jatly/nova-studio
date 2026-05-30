@@ -62,8 +62,7 @@ const Hero = () => {
 
             {/* Trust Line */}
             <div className="mt-10 flex flex-wrap items-center gap-4 text-sm text-zinc-500">
-              <span>Trusted by growing startups</span>
-              <span>•</span>
+              
               <span>UI/UX Design</span>
               <span>•</span>
               <span>Web Development</span>
@@ -87,6 +86,8 @@ const Hero = () => {
               <img
                 src={heroMockup}
                 alt="UI Design Showcase"
+                width="1200"
+                height="900"
                 className="relative w-full max-w-[650px] rotate-1 rounded-[32px] border border-white/10 shadow-2xl transition-all duration-500 hover:rotate-0 hover:scale-[1.02]"
               />
 
