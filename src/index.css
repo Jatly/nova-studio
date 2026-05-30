@@ -94,12 +94,11 @@ textarea:focus-visible {
 /* Optional gradient text */
 
 .gradient-text {
-  background: linear-gradient(
-    90deg,
-    #c084fc,
-    #e879f9,
-    #818cf8
-  );
+  background: linear-gradient(90deg,
+      #c084fc,
+      #e879f9,
+      #818cf8);
+      background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
